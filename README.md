@@ -8,6 +8,18 @@ O objetivo deste projeto foi implementar e manipular **estruturas em árvore**, 
 
 Também foram desenvolvidas condições (**ifs**) com **busca em diferentes ordens** entre os nós inseridos pelo usuário.  
 
+Este código implementa uma árvore binária de busca com percursos não recursivos, usando uma pilha encadeada. Ele cobre:
+
+- **Inserção**
+
+- **Consulta**
+
+- **Exclusão**
+
+- **Percursos (ordem, pré-ordem, pós-ordem)**
+
+- **Esvaziar árvore**
+
 Mais do que reforçar a teoria, o projeto busca proporcionar um ambiente **prático de aprendizado**, permitindo aplicar os conceitos em situações reais e consolidar o conhecimento de forma efetiva.  
 
 # Tecnologias utilizadas
